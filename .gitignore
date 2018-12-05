@@ -1,0 +1,3 @@
+target/
+coursier-cache/
+sbt-dir/boot/
